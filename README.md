@@ -9,11 +9,13 @@ A simple command-line todo application built with Python.
 - Delete tasks
 - Save tasks to a file
 
+## Data Storage
+Tasks are saved in a local JSON file.
+
 ## Tech
 - Python
 
 ## How to run
-
 Run the script using Python:
 
 ```bash
